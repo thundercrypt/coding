@@ -10,4 +10,4 @@ print(x**y)
 print(x%y)
 print(x//y)
 
-# Let's take the same two variables and use comparision operators on them.
+# Now let's take the same two variables and use comparision operators on them.
