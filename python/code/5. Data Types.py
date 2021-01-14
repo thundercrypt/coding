@@ -70,12 +70,12 @@ print(type(ranch))
 print(list(ranch))
 # The output should be '[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]'.
 
-list(range(2,10,2))
-[2, 4, 6, 8]
- type(range(10))
-<class 'range'>
- d = {'navin':'samsung','rahul':'Iphone','kiran':'Oneplus'}
- d
+print(list(range(2,10,2)))
+# This changes a range from 2 to 10 (10 exclusive) with an increment of 2.
+# The output should be '[2, 4, 6, 8]'.
+
+dictionary = {'navin':'samsung','rahul':'Iphone','kiran':'Oneplus'}
+print(dictionary)
 {'navin': 'samsung', 'rahul': 'Iphone', 'kiran': 'Oneplus'}
  d.keys()
 dict_keys(['navin', 'rahul', 'kiran'])
