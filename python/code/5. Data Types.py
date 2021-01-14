@@ -63,11 +63,14 @@ st = 'Random Text'
 type(st)
 # The output should be '<class 'str'>'.
 
-range(10)
-range(0, 10)
- list(range(10))
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
- list(range(2,10,2))
+ranch = range(10)
+print(type(ranch))
+# The output should be '<class 'range'>'.
+
+print(list(ranch))
+# The output should be '[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]'.
+
+list(range(2,10,2))
 [2, 4, 6, 8]
  type(range(10))
 <class 'range'>
