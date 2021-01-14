@@ -1,16 +1,19 @@
 # Let's define some variables and do some experimentation with Data Types in Python.
+
 num = 2.5
 print(type(num))
 # The output should be '<class 'float'>'
+
 num = 5
-type(num)
+print(type(num))
 # The output should be '<class 'int'>'
+
 num = 6+9j
 type(num)
-<class 'complex'>
- a = 5.6
- b = int(a)
- type(b)
+# <class 'complex'>
+a = 5.6
+b = int(a)
+type(b)
 <class 'int'>
  b
 5
