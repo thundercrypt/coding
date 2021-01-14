@@ -4,7 +4,7 @@ This repository is crafted for my Coding Homework for my School.
 
 ## Documentation
 
-This folder [python](https://github.com/toughneedle/coding/blob/main/python) of this repository deals with my Python projects.
+This folder, [python](https://github.com/toughneedle/coding/blob/main/python), of this repository deals with my Python projects.
 
 See the [images](https://github.com/toughneedle/coding/blob/main/python/images) folder in this branch to see images of the code.
 
