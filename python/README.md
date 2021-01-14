@@ -13,6 +13,6 @@ See the [code](https://github.com/toughneedle/coding/python/code) folder in this
 
 ## License
 
-[MIT License](https://github.com/toughneedle/coding/blob/master/LICENSE.md)
+[MIT License](https://github.com/toughneedle/coding/blob/main/LICENSE.md)
 
 When using the this repository or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
