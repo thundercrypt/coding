@@ -74,14 +74,15 @@ print(list(range(2,10,2)))
 # This changes a range from 2 to 10 (10 exclusive) with an increment of 2.
 # The output should be '[2, 4, 6, 8]'.
 
-dictionary = {'navin':'samsung','rahul':'Iphone','kiran':'Oneplus'}
+dictionary = {'Sushma':'English','Ritika':'Coding','Shivani':'Maths'}
+# Sorry Ma'am, but writing the word 'Ma'am' was messing up the dictionary.
 print(dictionary)
-{'navin': 'samsung', 'rahul': 'Iphone', 'kiran': 'Oneplus'}
- d.keys()
-dict_keys(['navin', 'rahul', 'kiran'])
- d.values()
-dict_values(['samsung', 'Iphone', 'Oneplus'])
- d['rahul']
-'Iphone'
- d.get('kiran')
-'Oneplus'
+# The output should be '{'navin': 'samsung', 'rahul': 'Iphone', 'kiran': 'Oneplus'}'.
+dictionary.keys()
+# The output should be 'dict_keys(['navin', 'rahul', 'kiran'])'.
+dictionary.values()
+# The output should be 'dict_values(['samsung', 'Iphone', 'Oneplus'])'.
+dictionary['Ritika']
+# The output should be ''Iphone''.
+dictionary.get('Coding')
+# The output should be ''Oneplus''.
