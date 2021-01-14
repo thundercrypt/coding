@@ -10,25 +10,26 @@ print(type(num))
 
 num = 6+9j
 print(type(num))
-# The soultion should be '<class 'complex'>'.
+# The output should be '<class 'complex'>'.
 
 a = 5.6
 b = int(a)
 print(type(b))
-# The solution should be '<class 'int'>'.
+# The ouput should be '<class 'int'>'.
 
 print(b)
-# The solution should be '5'.
+# The output should be '5'.
 
 k = float(b)
 print(k)
-# The solution should be '5.0'.
+# The output should be '5.0'.
 
 k = 6
 c = complex(b,k)
 print(c)
-# The solution should be '(5+6j)'.
- b<k
+# The output should be '(5+6j)'.
+
+b<k
 True
  boll = b < k
  bool
