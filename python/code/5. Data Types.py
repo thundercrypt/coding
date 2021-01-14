@@ -50,10 +50,10 @@ print(type(listOne))
 # The output should be '<class 'list'>'.
 
 s = {25,36,45,15,12,25}
-s
+print(s)
 {36, 12, 45, 15, 25}
- type(s)
-<class 'set'>
+print(type(s))
+# The output should be '<class 'set'>'.
  t = (25,36,4,57,12)
  type(t)
 <class 'tuple'>
