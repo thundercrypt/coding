@@ -30,23 +30,27 @@ print(c)
 # The output should be '(5+6j)'.
 
 b<k
-True
- boll = b < k
- bool
-<class 'bool'>
- b > k
-False
- int(True)
-1
- int(False)
-0
- 1st = [25,36,45,12]
-SyntaxError: invalid syntax
- lst = [25,36,45,12]
- type(lst)
-<class 'list'>
- s = {25,36,45,15,12,25}
- s
+# The output should be 'True'.
+
+comp = b < k
+print(type(comp))
+# The output should be '<class 'bool'>'.
+
+b > k
+# The output should be 'False'.
+
+print(int(True))
+# The output should be '1'.
+
+int(False)
+# The output should be '0'.
+
+listOne = [25,36,45,12]
+print(type(listOne))
+# The output should be '<class 'list'>'.
+
+s = {25,36,45,15,12,25}
+s
 {36, 12, 45, 15, 25}
  type(s)
 <class 'set'>
