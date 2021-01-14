@@ -54,14 +54,16 @@ print(s)
 {36, 12, 45, 15, 25}
 print(type(s))
 # The output should be '<class 'set'>'.
- t = (25,36,4,57,12)
- type(t)
-<class 'tuple'>
- str = "navin"
- st = 'a'
- type(st)
-<class 'str'>
- range(10)
+
+t = (25,36,4,57,12)
+print(type(t))
+# The output should be '<class 'tuple'>'.
+
+st = 'Random Text'
+type(st)
+# The output should be '<class 'str'>'.
+
+range(10)
 range(0, 10)
  list(range(10))
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -80,4 +82,3 @@ dict_values(['samsung', 'Iphone', 'Oneplus'])
 'Iphone'
  d.get('kiran')
 'Oneplus'
->>>
