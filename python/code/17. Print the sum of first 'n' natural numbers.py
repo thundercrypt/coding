@@ -5,6 +5,3 @@ for i in range(1, userNum+1):
     sum=sum+i
 
 print(sum)
-
-
-# WORK ON THIS
