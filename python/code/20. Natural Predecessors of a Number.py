@@ -6,5 +6,3 @@ predecessor = 1
 while(predecessor < userInput):
     print(predecessor)
     predecessor = predecessor + 1                           # Update the counter
-
-
