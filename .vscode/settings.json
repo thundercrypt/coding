@@ -1,11 +1,3 @@
 {
-    "python.pythonPath": "C:\\Users\\arora\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
-    "workbench.colorCustomizations": {
-        "editor.selectionHighlightBackground": "#0000", // similar selection
-        "editor.selectionHighlightBorder": "#0000",
-        "editor.wordHighlightStrongBackground": "#0000", // syntax variable assignment
-        "editor.wordHighlightStrongBorder": "#0000",
-        "editor.wordHighlightBackground": "#0000", // syntax variable
-        "editor.wordHighlightBorder": "#0000",
-    }
+    "python.pythonPath": "C:\\Users\\arora\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
 }
