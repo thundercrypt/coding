@@ -1,2 +1,2 @@
-.vscode/
-
+# Stop Git from tracking .vscode/settings.json
+.vscode/settings.json
