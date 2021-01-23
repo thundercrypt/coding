@@ -2,7 +2,7 @@
 def just_another_function(fname):
     print(fname,"Aggarwal")
 
-# Now let's use that argument defined in the function.
+# Now, let's use that argument defined in the function.
 
 just_another_function("Chetna")
 just_another_function("Deepika")
