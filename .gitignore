@@ -1,2 +1,4 @@
 # Stop Git from tracking .vscode/settings.json
 .vscode/settings.json
+
+# git rm --cached FILENAME
