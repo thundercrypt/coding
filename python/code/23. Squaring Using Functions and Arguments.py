@@ -8,4 +8,4 @@ userNum = int(input("Please enter an integer: "))
 
 # Call the function
 
-print("The square of",userNum,"is",square(userNum))
+print("The square of",userNum,"is",square(userNum),".")
