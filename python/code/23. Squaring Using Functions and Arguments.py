@@ -7,6 +7,6 @@ def square(num):
 userNum = int(input("Please enter an integer to be squared: "))
 
 
-# Call the function
+# Call the function and print the result
 
 print("The square of", userNum, "is", square(userNum), ".")
