@@ -10,7 +10,6 @@ See the [images](https://github.com/toughneedle/coding/blob/main/python/images) 
 
 See the [code](https://github.com/toughneedle/coding/blob/main/python/code) folder in this branch to see the code in text.
 
-
 ## License
 
 [MIT License](https://github.com/toughneedle/coding/blob/main/LICENSE.md)
