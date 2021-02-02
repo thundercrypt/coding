@@ -3,11 +3,11 @@
 # Let's define our functions first.
 
 def area_rect(length, width):
-    area_rect = length * width
+    area_rectangle = length * width
     print("The area of the rectangle is",area_rect,"units squared.")
 
 def area_sq(side):
-    area_sq = side**2
+    area_square = side**2
     print("The area of the square is",area_sq,"units squared.")
 
 # Now let's print the program description and some instructions.
