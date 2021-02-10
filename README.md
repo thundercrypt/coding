@@ -1,6 +1,6 @@
 # Coding
 
-This repository is crafted for my Coding Homework for my School.
+This repository is crafted for Coding Practice. Feel free to star this repository or fork away.
 
 ## Releases
 
