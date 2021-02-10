@@ -17,8 +17,8 @@ An HTML element is defined by a start tag, some content, and an end tag:
 
 The HTML element is everything from the start tag to the end tag:
 
-```<h1>My First Heading</h1>```
-```<p>My first paragraph.</p>```
+``` <h1>My First Heading</h1> ```
+```<p> My first paragraph.</p> ```
 
 ## The Use of Web Browsers
 
