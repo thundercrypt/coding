@@ -9,3 +9,7 @@ print(greeting + name)
 
 # if we want a space, we can add that too
 print(greeting + ' ' + name)
+
+
+age = 14
+print(age)
