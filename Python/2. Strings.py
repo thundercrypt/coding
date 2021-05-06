@@ -14,3 +14,9 @@ print(greeting + ' ' + name)
 age = 14
 print(age)
 
+print(type(greeting))
+print(type(age))
+
+age = "2 years"
+print(age)
+print(type(age))
