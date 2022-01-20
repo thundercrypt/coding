@@ -1,6 +1,6 @@
 # Coding
 
-This repository is crafted for Coding Practice. Feel free to star this repository or fork away.
+This repository is crafted for Coding Practice. Feel free to star this repository or fork away. The code and the tutorials have been taken from [FreeCodeCamp](https://www.freecodecamp.com).
 
 ## Releases
 
